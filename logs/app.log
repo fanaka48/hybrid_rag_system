@@ -1,0 +1,50 @@
+2026-01-01 17:58:53.308 | INFO     | app.services.document_processor:process_file:27 - Processing file: C:\Users\RISPA\2026\project_1\hybrid_rag_system\data\documents\konza_2.pdf
+2026-01-01 17:59:01.463 | INFO     | app.services.document_processor:process_file:38 - Created 126 chunks from C:\Users\RISPA\2026\project_1\hybrid_rag_system\data\documents\konza_2.pdf
+2026-01-01 18:00:11.687 | INFO     | app.services.document_processor:_update_bm25:65 - BM25 index updated
+2026-01-01 18:02:19.021 | INFO     | app.services.rag_pipeline:transform_query:34 - Transforming query for standalone version
+2026-01-01 18:03:50.434 | INFO     | app.services.rag_pipeline:retrieve:50 - Retrieving for: What is Konza City?
+2026-01-01 18:03:53.897 | INFO     | app.services.rag_pipeline:rerank:80 - Reranking results
+2026-01-01 18:04:00.117 | INFO     | app.services.rag_pipeline:generate:91 - Generating response
+2026-01-01 18:07:34.360 | INFO     | app.services.rag_pipeline:transform_query:34 - Transforming query for standalone version
+2026-01-01 18:08:27.085 | INFO     | app.services.rag_pipeline:retrieve:50 - Retrieving for: What is Konza Technopolis?
+2026-01-01 18:08:29.228 | INFO     | app.services.rag_pipeline:rerank:80 - Reranking results
+2026-01-01 18:08:34.708 | INFO     | app.services.rag_pipeline:generate:91 - Generating response
+2026-01-01 18:23:09.652 | INFO     | app.services.rag_pipeline:transform_query:34 - Transforming query for standalone version
+2026-01-01 18:24:31.469 | INFO     | app.services.rag_pipeline:retrieve:50 - Retrieving for: The investment focus of **Konza Technopolis** (the planned urban development area) includes:  
+1. **Technology & Innovation**: Development of a smart city with advanced infrastructure, a Tier III National Data Centre, and support for knowledge-based industries.  
+2. **Life Sciences**: Key projects like the **Smart Vaccine Production Facility**, aimed at producing affordable vaccines.  
+3. **Logistics & Trade**: Strategic SEZ (Special Economic Zone) incentives, streamlined logistics, and access to local and international markets.  
+4. **Infrastructure**: Smart utilities, affordable housing, and a completed link road, alongside the Open University of Kenya.  
+
+These investments prioritize technology, innovation, and sustainable growth, with a focus on sectors like healthcare, logistics, and education.
+2026-01-01 18:24:35.939 | INFO     | app.services.rag_pipeline:rerank:80 - Reranking results
+2026-01-01 18:24:43.853 | INFO     | app.services.rag_pipeline:generate:91 - Generating response
+2026-01-01 19:32:38.997 | INFO     | main:login:66 - Login attempt for user: admin
+2026-01-01 19:32:39.135 | INFO     | main:login:77 - Login successful for user: admin
+2026-01-01 19:36:15.673 | INFO     | main:login:66 - Login attempt for user: admin
+2026-01-01 19:36:15.810 | INFO     | main:login:77 - Login successful for user: admin
+2026-01-01 19:40:43.339 | INFO     | main:login:66 - Login attempt for user: ali
+2026-01-01 19:40:43.454 | INFO     | main:login:77 - Login successful for user: ali
+2026-01-01 19:41:32.734 | INFO     | main:login:66 - Login attempt for user: admin
+2026-01-01 19:41:32.866 | INFO     | main:login:77 - Login successful for user: admin
+2026-01-01 19:43:07.511 | INFO     | app.services.rag_pipeline:transform_query:34 - Transforming query for standalone version
+2026-01-01 19:43:43.970 | INFO     | app.services.rag_pipeline:retrieve:68 - Retrieving for: What do I need to know about Konza?
+2026-01-01 19:43:48.376 | INFO     | app.services.rag_pipeline:rerank:93 - Reranking results
+2026-01-01 19:43:56.612 | INFO     | app.services.rag_pipeline:generate:104 - Generating response
+2026-01-01 19:45:35.768 | INFO     | app.services.rag_pipeline:transform_query:34 - Transforming query for standalone version
+2026-01-01 19:48:47.082 | INFO     | app.services.rag_pipeline:transform_query:34 - Transforming query for standalone version
+2026-01-01 19:50:49.101 | INFO     | app.services.rag_pipeline:retrieve:68 - Retrieving for: What is Konza Technopollis?
+2026-01-01 19:50:52.657 | INFO     | app.services.rag_pipeline:rerank:93 - Reranking results
+2026-01-01 19:51:01.435 | INFO     | app.services.rag_pipeline:generate:104 - Generating response
+2026-01-01 20:05:30.920 | INFO     | main:login:66 - Login attempt for user: admin
+2026-01-01 20:05:31.036 | INFO     | main:login:77 - Login successful for user: admin
+2026-01-01 20:07:45.132 | INFO     | main:login:66 - Login attempt for user: ali
+2026-01-01 20:07:45.225 | INFO     | main:login:77 - Login successful for user: ali
+2026-01-01 20:07:47.116 | INFO     | main:login:66 - Login attempt for user: ali
+2026-01-01 20:07:47.221 | INFO     | main:login:77 - Login successful for user: ali
+2026-01-01 20:08:36.536 | INFO     | app.services.rag_pipeline:transform_query:34 - Transforming query for standalone version
+2026-01-01 20:09:16.167 | INFO     | app.services.rag_pipeline:retrieve:68 - Retrieving for: Where can I invest in Konza Technopollis?
+2026-01-01 20:09:19.852 | INFO     | app.services.rag_pipeline:rerank:93 - Reranking results
+2026-01-01 20:09:29.354 | INFO     | app.services.rag_pipeline:generate:104 - Generating response
+2026-01-01 20:29:13.270 | INFO     | main:login:66 - Login attempt for user: admin
+2026-01-01 20:29:13.408 | INFO     | main:login:77 - Login successful for user: admin
